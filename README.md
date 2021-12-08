@@ -1,6 +1,6 @@
 # Microservices & Cloud Based Architecture
 
-## Step:1 Pre-requisites & Installation
+## Step:1 Pre-requisites(Please install the applications mentioned below).
 ### Laptop with access to the Internet
 ### Install Intellij or your choice of IDE to build a java based microservice. Link to download IntelliJ for your machine.
     Windows: https://www.jetbrains.com/idea/download/#section=windows

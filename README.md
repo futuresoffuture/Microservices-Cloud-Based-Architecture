@@ -1,4 +1,4 @@
-# Microservices & Cloud Based Architecture
+# Microservices Hands-on Workshop
 
 ## Step:1 Pre-requisites(Please install the applications mentioned below).
 ### Laptop with access to the Internet

@@ -26,3 +26,9 @@ https://docs.microsoft.com/en-us/virtualization/windowscontainers/quick-start/se
     npm install vue
 ### add nuxt    
     yarn add nuxt
+### Install AWS Cli
+https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html
+### Download dynamodb local jar/docker for testing.
+https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/DynamoDBLocal.DownloadingAndRunning.html
+How to run the dynamodb jar.
+java -Djava.library.path=./DynamoDBLocal_lib -jar DynamoDBLocal.jar -sharedDb

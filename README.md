@@ -31,10 +31,12 @@ https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html
 
 After Installing AWS Cli, create test creds for DynamoDB
   - Run "aws configure"
-AWS Access Key ID [None]: testid
-AWS Secret Access Key [None]: testSecret
-Default region name [None]: us-east-1
-Default output format [None]: json
+  
+    Please use below values when asked. 
+    AWS Access Key ID [None]: testid
+    AWS Secret Access Key [None]: testSecret
+    Default region name [None]: us-east-1
+    Default output format [None]: json
 
 ### Download dynamodb docker for testing.
 https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/DynamoDBLocal.DownloadingAndRunning.html

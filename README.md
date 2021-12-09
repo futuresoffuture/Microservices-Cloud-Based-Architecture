@@ -33,6 +33,7 @@ After Installing AWS Cli, create test creds for DynamoDB
   - Run "aws configure"
   
        Please use below values when asked. 
+       
         AWS Access Key ID [None]: testid
         AWS Secret Access Key [None]: testSecret
         Default region name [None]: us-east-1

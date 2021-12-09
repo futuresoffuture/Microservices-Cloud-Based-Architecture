@@ -28,6 +28,14 @@ https://docs.microsoft.com/en-us/virtualization/windowscontainers/quick-start/se
     yarn add nuxt
 ### Install AWS Cli
 https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html
+
+After Installing AWS Cli, create test creds for DynamoDB
+  - Run "aws configure"
+AWS Access Key ID [None]: testid
+AWS Secret Access Key [None]: testSecret
+Default region name [None]: us-east-1
+Default output format [None]: json
+
 ### Download dynamodb local jar/docker for testing.
 https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/DynamoDBLocal.DownloadingAndRunning.html
 How to run the dynamodb jar.

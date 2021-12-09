@@ -36,7 +36,5 @@ AWS Secret Access Key [None]: testSecret
 Default region name [None]: us-east-1
 Default output format [None]: json
 
-### Download dynamodb local jar/docker for testing.
+### Download dynamodb docker for testing.
 https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/DynamoDBLocal.DownloadingAndRunning.html
-How to run the dynamodb jar.
-java -Djava.library.path=./DynamoDBLocal_lib -jar DynamoDBLocal.jar -sharedDb

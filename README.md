@@ -29,8 +29,7 @@ https://docs.microsoft.com/en-us/virtualization/windowscontainers/quick-start/se
 ### Install AWS Cli
 https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html
 
-After Installing AWS Cli, create test creds for DynamoDB
-  - Run "aws configure"
+After Installing AWS Cli, create test creds for DynamoDB by running "aws configure" in terminal(powershell/comnand prompt).
   
        Please use below values when asked. 
        

@@ -38,5 +38,8 @@ After Installing AWS Cli, create test creds for DynamoDB by running "aws configu
         Default region name [None]: us-east-1
         Default output format [None]: json
 
-### Download dynamodb docker for testing.
-https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/DynamoDBLocal.DownloadingAndRunning.html
+### Install Visual Studio code
+https://code.visualstudio.com/download
+
+### Download dynamodb docker for testing by running in the commandline.
+docker pull amazon/dynamodb-local:latest
